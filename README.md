@@ -1,5 +1,7 @@
  # CA3_D00215674_alt
-Due to recurring problems CA3 has been duplicated and will be continued in this repository
+Due to recurring problems CA3 has been duplicated and will be continued in this repository.
+In order to run CA3 you will need XAMPP Control Panel with Apache Server and MySQL (PHPMyAdmin).
+There is a file **spa.sql** which is needed to be uploaded to PHPMyAdmin in order for CA3 to list data.
 
 **Introduction** 
   * When CA3 was created, the first thing done was to prepare the file directories to match the MVC Pattern.
