@@ -12,7 +12,7 @@ Due to recurring problems CA3 has been duplicated and will be continued in this 
   * The webpage has the ability to **Create, Read, Update, and Delete** the data for each table. Can only create in VIP and Booking if and     only if there is a member_id to reference.
   
   **Troubleshooting**
-    * While creating CA3 **main.css** would be found by the network but not read. Causing the HTML to be unstyled.
+    * While creating CA3 **main.css** would be found by the network but not read. Causing the HTML to be unstyled.    
     * In response to this the project was cloned to the name CA3_D00215674_alt. This finally allowed the **main.css** to be read.
     * When cloning CA3 to a new project, the push was then rejected by Github. Trying to push to the master branch with a different project 
       would not work due to unmatching IDs.
